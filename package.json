@@ -1,0 +1,20 @@
+{
+  "name": "marco_polo_p1",
+  "version": "1.0.0",
+  "description": "macro polo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "macro",
+    "polo",
+    "problem"
+  ],
+  "author": "Ashish Bhardwaj",
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "express": "*"
+  }
+}
