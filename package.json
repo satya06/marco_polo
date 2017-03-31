@@ -16,5 +16,9 @@
   "devDependencies": {
     "fs": "0.0.1-security",
     "express": "*"
+  },
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "mongoose": "^4.9.2"
   }
 }
