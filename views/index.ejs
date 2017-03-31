@@ -1,0 +1,12 @@
+<html>
+  <head>
+</head>
+<body>
+<h1>Please select the range: </h1>
+<ul>
+<% for(var i = start; i < end; i += step) { %>
+<li><a href = "/get_data/<%= i %>"><%= i %>-<%= i + step %></a></li>
+<% } %>
+</ul>
+</body>
+</html>
